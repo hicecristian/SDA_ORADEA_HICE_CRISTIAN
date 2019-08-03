@@ -1,0 +1,10 @@
+my firstproject on git
+echo "# SDA_ORADEA_HICE_CRISTIAN" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hicecristian/SDA_ORADEA_HICE_CRISTIAN.git
+git push -u origin master
+
+git remote add origin https://github.com/hicecristian/SDA_ORADEA_HICE_CRISTIAN.git
+git push -u origin master
